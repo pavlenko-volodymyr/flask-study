@@ -8,6 +8,6 @@ flask-whooshalchemy
 flask-wtf
 flask-babel
 flup
-lamson
-chardet
+#lamson
+#chardet
 #flask-mail
